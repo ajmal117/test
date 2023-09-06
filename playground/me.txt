@@ -1,0 +1,5 @@
+{{#user}}
+Name: Ajmal ali
+Skills: HTML, CSS, JS,Tailwind css, React.js, Next.js
+Email: test@gmail.com
+{{/user}}
